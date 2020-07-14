@@ -1,0 +1,21 @@
+version: "3.7"
+services:
+  rest:
+    container_name: wallet-api-service
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    command: ["node", "dist/main"]
+    environment:
+      - SERVER_HOST=0.0.0.0
+      - SERVER_PORT=3000
+      - LOG_LABEL=WALLET-API-SERVICE
+      - LOG_LEVEL=trace
+      - LOG_JSON=false
+    volumes:
+    - wallet-local:$HOME/app/conf
+
+volumes:
+  wallet-local:

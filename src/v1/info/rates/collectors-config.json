@@ -1,0 +1,107 @@
+{
+  "tickers_collector_period_sec": 10,
+  "tickers_collector": {
+    "cex": {
+      "name": "CEX.IO",
+      "pairs": [
+        {
+          "url": "https://cex.io/api/ticker/BTC/USD"
+        },
+        {
+          "url": "https://cex.io/api/ticker/BTC/EUR"
+        }
+      ]
+    },
+    "bitfinex": {
+      "name":"Bitfinex",
+      "pairs": [
+        {
+          "url": "https://api.bitfinex.com/v1/pubticker/BTCUSD",
+          "symbol1": "BTC",
+          "symbol2": "USD"
+        },
+        {
+          "url": "https://api.bitfinex.com/v1/pubticker/BTCEUR",
+          "symbol1": "BTC",
+          "symbol2": "EUR"
+        }
+      ]
+    },
+    "bitstamp": {
+      "name":"Bitstamp",
+      "pairs": [
+        {
+          "url": "https://www.bitstamp.net/api/v2/ticker/btcusd/",
+          "symbol1": "BTC",
+          "symbol2": "USD"
+        },
+        {
+          "url": "https://www.bitstamp.net/api/v2/ticker/btceur/",
+          "symbol1": "BTC",
+          "symbol2": "EUR"
+        }
+      ]
+    },
+    "kraken": {
+      "name":"Kraken",
+      "pairs": [
+        {
+          "url": "https://api.kraken.com/0/public/Ticker?pair=XBTUSD,BTCEUR"
+        }
+      ]
+    },
+    "coinbase": {
+      "name":"Coinbase Pro",
+      "pairs": [
+        {
+          "url": "https://api.pro.coinbase.com/products/BTC-USD/ticker",
+          "stats": "https://api.pro.coinbase.com/products/BTC-USD/stats",
+          "symbol1": "BTC",
+          "symbol2": "USD"
+        },
+        {
+          "url": "https://api.pro.coinbase.com/products/BTC-EUR/ticker",
+          "stats": "https://api.pro.coinbase.com/products/BTC-EUR/stats",
+          "symbol1": "BTC",
+          "symbol2": "EUR"
+        }
+      ]
+    },
+    "binance": {
+      "name":"Binance",
+      "pairs": [
+        {
+          "url": "https://api.binance.com/api/v3/ticker/24hr?symbol=BTCUSDT",
+          "symbol1": "BTC",
+          "symbol2": "USDT"
+        },
+        {
+          "url": "https://api.binance.com/api/v3/ticker/24hr?symbol=BTCEUR",
+          "symbol1": "BTC",
+          "symbol2": "EUR"
+        }
+      ]
+    },
+    "bitrex": {
+      "name":"Bittrex",
+      "pairs": [
+        {
+          "url": "https://bittrex.com/api/v1.1/public/getmarketsummary?market=USD-BTC",
+          "symbol1": "BTC",
+          "symbol2": "USD"
+        }
+      ]
+    },
+    "gemini": {
+      "name":"Gemini",
+      "pairs": [
+        {
+          "url": "https://api.gemini.com/v1/pubticker/btcusd",
+          "url2": "https://api.gemini.com/v2/ticker/btcusd",
+          "symbol1": "BTC",
+          "symbol2": "USD"
+        }
+      ]
+    }
+  }
+}

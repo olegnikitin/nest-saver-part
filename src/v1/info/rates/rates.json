@@ -1,0 +1,1052 @@
+{
+  "mockRates": [
+    {
+      "id": 158,
+      "currency": "LAMB",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.0211935579004521,
+      "updatedAt": "2020-03-11T17:00:58.413Z"
+    },
+    {
+      "id": 136,
+      "currency": "REP",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 11.1934491523,
+      "updatedAt": "2020-03-11T17:00:21.862Z"
+    },
+    {
+      "id": 159,
+      "currency": "MATIC",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.0195215759738,
+      "updatedAt": "2020-03-11T17:01:02.198Z"
+    },
+    {
+      "id": 137,
+      "currency": "REP",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00143805749087422,
+      "updatedAt": "2020-03-11T17:00:22.309Z"
+    },
+    {
+      "id": 160,
+      "currency": "MATIC",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00000250799804250015,
+      "updatedAt": "2020-03-11T17:01:02.569Z"
+    },
+    {
+      "id": 161,
+      "currency": "MATIC",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.0173258867161469,
+      "updatedAt": "2020-03-11T17:01:02.941Z"
+    },
+    {
+      "id": 138,
+      "currency": "REP",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 9.93446595889509,
+      "updatedAt": "2020-03-11T17:00:22.764Z"
+    },
+    {
+      "id": 58,
+      "currency": "ZEC",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00507855025840145,
+      "updatedAt": "2020-03-11T17:00:25.189Z"
+    },
+    {
+      "id": 71,
+      "currency": "ZEC",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 35.0839135311314,
+      "updatedAt": "2020-03-11T17:00:25.579Z"
+    },
+    {
+      "id": 140,
+      "currency": "GNT",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.0472885471507,
+      "updatedAt": "2020-03-11T17:00:25.957Z"
+    },
+    {
+      "id": 141,
+      "currency": "GNT",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.0000060753078463442,
+      "updatedAt": "2020-03-11T17:00:26.348Z"
+    },
+    {
+      "id": 142,
+      "currency": "GNT",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.0419697678099252,
+      "updatedAt": "2020-03-11T17:00:26.741Z"
+    },
+    {
+      "id": 143,
+      "currency": "MKR",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 487.193523591,
+      "updatedAt": "2020-03-11T17:00:27.120Z"
+    },
+    {
+      "id": 144,
+      "currency": "MKR",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.0625912787535632,
+      "updatedAt": "2020-03-11T17:00:27.495Z"
+    },
+    {
+      "id": 145,
+      "currency": "MKR",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 432.396432025104,
+      "updatedAt": "2020-03-11T17:00:27.870Z"
+    },
+    {
+      "id": 6,
+      "currency": "BAT",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000025520665062027,
+      "updatedAt": "2020-03-11T17:00:28.619Z"
+    },
+    {
+      "id": 72,
+      "currency": "BAT",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.176303228428609,
+      "updatedAt": "2020-03-11T17:00:28.991Z"
+    },
+    {
+      "id": 24,
+      "currency": "GAS",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000175957634572901,
+      "updatedAt": "2020-03-11T17:00:29.743Z"
+    },
+    {
+      "id": 73,
+      "currency": "GAS",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 1.21555997723674,
+      "updatedAt": "2020-03-11T17:00:30.123Z"
+    },
+    {
+      "id": 34,
+      "currency": "OMG",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.0000970058536881291,
+      "updatedAt": "2020-03-11T17:00:30.878Z"
+    },
+    {
+      "id": 76,
+      "currency": "BCH",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 231.625617632985,
+      "updatedAt": "2020-03-11T17:00:32.383Z"
+    },
+    {
+      "id": 146,
+      "currency": "ZRX",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.225559452489,
+      "updatedAt": "2020-03-11T17:00:32.754Z"
+    },
+    {
+      "id": 147,
+      "currency": "ZRX",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.0000289783297244572,
+      "updatedAt": "2020-03-11T17:00:33.138Z"
+    },
+    {
+      "id": 148,
+      "currency": "ZRX",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.2001896530703,
+      "updatedAt": "2020-03-11T17:00:33.596Z"
+    },
+    {
+      "id": 44,
+      "currency": "TRX",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00000189299379789917,
+      "updatedAt": "2020-03-11T17:00:34.361Z"
+    },
+    {
+      "id": 149,
+      "currency": "LINK",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 3.74434027163,
+      "updatedAt": "2020-03-11T17:00:35.115Z"
+    },
+    {
+      "id": 150,
+      "currency": "LINK",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00048104712879257,
+      "updatedAt": "2020-03-11T17:00:35.489Z"
+    },
+    {
+      "id": 151,
+      "currency": "LINK",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 3.32319559957843,
+      "updatedAt": "2020-03-11T17:00:35.863Z"
+    },
+    {
+      "id": 152,
+      "currency": "HOT",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.000527559374629,
+      "updatedAt": "2020-03-11T17:00:44.350Z"
+    },
+    {
+      "id": 153,
+      "currency": "HOT",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 6.77772061358108e-8,
+      "updatedAt": "2020-03-11T17:00:44.736Z"
+    },
+    {
+      "id": 154,
+      "currency": "HOT",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.000468222133967605,
+      "updatedAt": "2020-03-11T17:00:45.117Z"
+    },
+    {
+      "id": 107,
+      "currency": "GBP",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 1.14058704843664,
+      "updatedAt": "2020-03-11T17:00:48.082Z"
+    },
+    {
+      "id": 155,
+      "currency": "LAMB",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.023879392581,
+      "updatedAt": "2020-03-11T17:00:57.646Z"
+    },
+    {
+      "id": 156,
+      "currency": "LAMB",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00000306786039864909,
+      "updatedAt": "2020-03-11T17:00:58.038Z"
+    },
+    {
+      "id": 139,
+      "currency": "REP",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 10.0624995448247,
+      "updatedAt": "2020-03-11T15:00:22.970Z"
+    },
+    {
+      "id": 78,
+      "currency": "TRX",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.0130772813778094,
+      "updatedAt": "2020-03-11T17:00:34.742Z"
+    },
+    {
+      "id": 1,
+      "currency": "ADA",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.0396630390234,
+      "updatedAt": "2020-03-11T17:00:36.237Z"
+    },
+    {
+      "id": 2,
+      "currency": "ADA",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00000509563492024414,
+      "updatedAt": "2020-03-11T17:00:36.610Z"
+    },
+    {
+      "id": 80,
+      "currency": "ADA",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.0352019387092432,
+      "updatedAt": "2020-03-11T17:00:36.982Z"
+    },
+    {
+      "id": 59,
+      "currency": "XTZ",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 2.43718511054,
+      "updatedAt": "2020-03-11T17:00:37.364Z"
+    },
+    {
+      "id": 62,
+      "currency": "XTZ",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000313112808855616,
+      "updatedAt": "2020-03-11T17:00:37.739Z"
+    },
+    {
+      "id": 81,
+      "currency": "XTZ",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 2.16306271523202,
+      "updatedAt": "2020-03-11T17:00:38.125Z"
+    },
+    {
+      "id": 13,
+      "currency": "BTG",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 8.9892868736,
+      "updatedAt": "2020-03-11T17:00:38.504Z"
+    },
+    {
+      "id": 83,
+      "currency": "BTG",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 7.97821683249187,
+      "updatedAt": "2020-03-11T17:00:39.258Z"
+    },
+    {
+      "id": 41,
+      "currency": "QASH",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.0420717451372,
+      "updatedAt": "2020-03-11T17:00:39.639Z"
+    },
+    {
+      "id": 42,
+      "currency": "QASH",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00000540508894314046,
+      "updatedAt": "2020-03-11T17:00:40.031Z"
+    },
+    {
+      "id": 85,
+      "currency": "QASH",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.0373397256028936,
+      "updatedAt": "2020-03-11T17:00:40.422Z"
+    },
+    {
+      "id": 133,
+      "currency": "WABI",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.109326910998,
+      "updatedAt": "2020-03-11T17:00:40.794Z"
+    },
+    {
+      "id": 134,
+      "currency": "WABI",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000014045570867002,
+      "updatedAt": "2020-03-11T17:00:41.181Z"
+    },
+    {
+      "id": 111,
+      "currency": "RUB",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00000178116524798163,
+      "updatedAt": "2020-03-11T17:00:48.866Z"
+    },
+    {
+      "id": 113,
+      "currency": "RUB",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.0123047413858839,
+      "updatedAt": "2020-03-11T17:00:49.260Z"
+    },
+    {
+      "id": 22,
+      "currency": "EURS",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00014384944662488,
+      "updatedAt": "2020-03-11T17:00:50.027Z"
+    },
+    {
+      "id": 115,
+      "currency": "EURS",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.993748469563628,
+      "updatedAt": "2020-03-11T17:00:50.407Z"
+    },
+    {
+      "id": 56,
+      "currency": "XTRD",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 3.33573731511058e-7,
+      "updatedAt": "2020-03-11T17:00:50.984Z"
+    },
+    {
+      "id": 117,
+      "currency": "XTRD",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.00230441195954109,
+      "updatedAt": "2020-03-11T17:00:51.439Z"
+    },
+    {
+      "id": 35,
+      "currency": "ONG",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.108227202828,
+      "updatedAt": "2020-03-11T17:00:51.815Z"
+    },
+    {
+      "id": 157,
+      "currency": "LAMB",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00000307181493448275,
+      "updatedAt": "2020-03-11T15:00:56.013Z"
+    },
+    {
+      "id": 36,
+      "currency": "ONG",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.0000139042879121124,
+      "updatedAt": "2020-03-11T17:00:52.245Z"
+    },
+    {
+      "id": 119,
+      "currency": "ONG",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.096054348189921,
+      "updatedAt": "2020-03-11T17:00:52.637Z"
+    },
+    {
+      "id": 25,
+      "currency": "GUSD",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.991247505619,
+      "updatedAt": "2020-03-11T17:00:53.021Z"
+    },
+    {
+      "id": 121,
+      "currency": "GUSD",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.879756942424506,
+      "updatedAt": "2020-03-11T17:00:53.791Z"
+    },
+    {
+      "id": 39,
+      "currency": "PAX",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 1.00156065748,
+      "updatedAt": "2020-03-11T17:00:54.188Z"
+    },
+    {
+      "id": 30,
+      "currency": "MHC",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 3.19399875494436e-7,
+      "updatedAt": "2020-03-11T17:01:00.284Z"
+    },
+    {
+      "id": 3,
+      "currency": "ATOM",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 2.92471315436,
+      "updatedAt": "2020-03-11T17:01:01.055Z"
+    },
+    {
+      "id": 11,
+      "currency": "BTC",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 7783.72855281,
+      "updatedAt": "2020-03-11T17:00:12.665Z"
+    },
+    {
+      "id": 66,
+      "currency": "DASH",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 64.0573868055224,
+      "updatedAt": "2020-03-11T17:00:17.425Z"
+    },
+    {
+      "id": 51,
+      "currency": "XLM",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.0503760434535,
+      "updatedAt": "2020-03-11T17:00:17.878Z"
+    },
+    {
+      "id": 52,
+      "currency": "XLM",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00000647196817202904,
+      "updatedAt": "2020-03-11T17:00:18.322Z"
+    },
+    {
+      "id": 67,
+      "currency": "XLM",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.0447099979660677,
+      "updatedAt": "2020-03-11T17:00:18.754Z"
+    },
+    {
+      "id": 49,
+      "currency": "USDT",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 1.00230096988,
+      "updatedAt": "2020-03-11T17:00:19.193Z"
+    },
+    {
+      "id": 68,
+      "currency": "USDT",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.88956716829275,
+      "updatedAt": "2020-03-11T17:00:20.086Z"
+    },
+    {
+      "id": 19,
+      "currency": "ETH",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 193.32208395,
+      "updatedAt": "2020-03-11T17:00:20.529Z"
+    },
+    {
+      "id": 20,
+      "currency": "ETH",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.0248366939620741,
+      "updatedAt": "2020-03-11T17:00:20.988Z"
+    },
+    {
+      "id": 69,
+      "currency": "ETH",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 171.578182557724,
+      "updatedAt": "2020-03-11T17:00:21.421Z"
+    },
+    {
+      "id": 31,
+      "currency": "NEO",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 9.35485266471,
+      "updatedAt": "2020-03-11T17:00:23.207Z"
+    },
+    {
+      "id": 32,
+      "currency": "NEO",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00120184723827924,
+      "updatedAt": "2020-03-11T17:00:23.905Z"
+    },
+    {
+      "id": 70,
+      "currency": "NEO",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 8.30266561124677,
+      "updatedAt": "2020-03-11T17:00:24.280Z"
+    },
+    {
+      "id": 57,
+      "currency": "ZEC",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 39.5300566532,
+      "updatedAt": "2020-03-11T17:00:24.656Z"
+    },
+    {
+      "id": 5,
+      "currency": "BAT",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.19864592933,
+      "updatedAt": "2020-03-11T17:00:28.248Z"
+    },
+    {
+      "id": 23,
+      "currency": "GAS",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 1.36960646431,
+      "updatedAt": "2020-03-11T17:00:29.367Z"
+    },
+    {
+      "id": 33,
+      "currency": "OMG",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.755067233142,
+      "updatedAt": "2020-03-11T17:00:30.505Z"
+    },
+    {
+      "id": 74,
+      "currency": "OMG",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.670141046094356,
+      "updatedAt": "2020-03-11T17:00:31.249Z"
+    },
+    {
+      "id": 7,
+      "currency": "BCH",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 260.979259889,
+      "updatedAt": "2020-03-11T17:00:31.627Z"
+    },
+    {
+      "id": 43,
+      "currency": "TRX",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.014734549875,
+      "updatedAt": "2020-03-11T17:00:33.969Z"
+    },
+    {
+      "id": 135,
+      "currency": "WABI",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.0970303666835003,
+      "updatedAt": "2020-03-11T17:00:41.592Z"
+    },
+    {
+      "id": 87,
+      "currency": "TUSD",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.889234039573732,
+      "updatedAt": "2020-03-11T17:00:42.721Z"
+    },
+    {
+      "id": 37,
+      "currency": "ONT",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.566237349395,
+      "updatedAt": "2020-03-11T17:00:43.121Z"
+    },
+    {
+      "id": 38,
+      "currency": "ONT",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.0000727462867638907,
+      "updatedAt": "2020-03-11T17:00:43.579Z"
+    },
+    {
+      "id": 89,
+      "currency": "ONT",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.502549803521799,
+      "updatedAt": "2020-03-11T17:00:43.971Z"
+    },
+    {
+      "id": 93,
+      "currency": "USD",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000128473133822092,
+      "updatedAt": "2020-03-11T17:00:45.711Z"
+    },
+    {
+      "id": 95,
+      "currency": "USD",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.887525000000003,
+      "updatedAt": "2020-03-11T17:00:46.093Z"
+    },
+    {
+      "id": 99,
+      "currency": "EUR",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000144754383056355,
+      "updatedAt": "2020-03-11T17:00:46.878Z"
+    },
+    {
+      "id": 105,
+      "currency": "GBP",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000165104974518516,
+      "updatedAt": "2020-03-11T17:00:47.651Z"
+    },
+    {
+      "id": 63,
+      "currency": "BTC",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 6908.25368383272,
+      "updatedAt": "2020-03-11T17:00:13.579Z"
+    },
+    {
+      "id": 27,
+      "currency": "LTC",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 48.0687253343,
+      "updatedAt": "2020-03-11T17:00:13.988Z"
+    },
+    {
+      "id": 28,
+      "currency": "LTC",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00617553978253092,
+      "updatedAt": "2020-03-11T17:00:14.370Z"
+    },
+    {
+      "id": 64,
+      "currency": "LTC",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 42.6621954523247,
+      "updatedAt": "2020-03-11T17:00:14.750Z"
+    },
+    {
+      "id": 53,
+      "currency": "XRP",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.207092805006,
+      "updatedAt": "2020-03-11T17:00:15.202Z"
+    },
+    {
+      "id": 54,
+      "currency": "XRP",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.0000266058616511283,
+      "updatedAt": "2020-03-11T17:00:15.643Z"
+    },
+    {
+      "id": 65,
+      "currency": "XRP",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.183800041762951,
+      "updatedAt": "2020-03-11T17:00:16.104Z"
+    },
+    {
+      "id": 17,
+      "currency": "DASH",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 72.1753041385,
+      "updatedAt": "2020-03-11T17:00:16.531Z"
+    },
+    {
+      "id": 18,
+      "currency": "DASH",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00927258750723572,
+      "updatedAt": "2020-03-11T17:00:17.001Z"
+    },
+    {
+      "id": 40,
+      "currency": "PAX",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000128673636379371,
+      "updatedAt": "2020-03-11T17:00:54.574Z"
+    },
+    {
+      "id": 123,
+      "currency": "PAX",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.88891012252994,
+      "updatedAt": "2020-03-11T17:00:54.951Z"
+    },
+    {
+      "id": 47,
+      "currency": "USDC",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 1.002027777,
+      "updatedAt": "2020-03-11T17:00:55.341Z"
+    },
+    {
+      "id": 48,
+      "currency": "USDC",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000128733648687975,
+      "updatedAt": "2020-03-11T17:00:55.733Z"
+    },
+    {
+      "id": 125,
+      "currency": "USDC",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.889324702781928,
+      "updatedAt": "2020-03-11T17:00:56.110Z"
+    },
+    {
+      "id": 9,
+      "currency": "BSV",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 186.268406065,
+      "updatedAt": "2020-03-11T17:00:56.506Z"
+    },
+    {
+      "id": 10,
+      "currency": "BSV",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.0239304858592166,
+      "updatedAt": "2020-03-11T17:00:56.879Z"
+    },
+    {
+      "id": 126,
+      "currency": "BSV",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 165.31786709284,
+      "updatedAt": "2020-03-11T17:00:57.272Z"
+    },
+    {
+      "id": 15,
+      "currency": "BTT",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.000307401487211,
+      "updatedAt": "2020-03-11T17:00:58.789Z"
+    },
+    {
+      "id": 16,
+      "currency": "BTT",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 3.9492832403569e-8,
+      "updatedAt": "2020-03-11T17:00:59.159Z"
+    },
+    {
+      "id": 127,
+      "currency": "BTT",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.000272826504936944,
+      "updatedAt": "2020-03-11T17:00:59.532Z"
+    },
+    {
+      "id": 29,
+      "currency": "MHC",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.00248612193065,
+      "updatedAt": "2020-03-11T17:00:59.909Z"
+    },
+    {
+      "id": 4,
+      "currency": "ATOM",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000375747064471326,
+      "updatedAt": "2020-03-11T17:01:01.438Z"
+    },
+    {
+      "id": 129,
+      "currency": "ATOM",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 2.59575604232337,
+      "updatedAt": "2020-03-11T17:01:01.815Z"
+    },
+    {
+      "id": 21,
+      "currency": "EURS",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 1.119685045,
+      "updatedAt": "2020-03-11T17:00:49.635Z"
+    },
+    {
+      "id": 26,
+      "currency": "GUSD",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000127348673440205,
+      "updatedAt": "2020-03-11T17:00:53.404Z"
+    },
+    {
+      "id": 14,
+      "currency": "BTG",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.00115488185547719,
+      "updatedAt": "2020-03-11T17:00:38.878Z"
+    },
+    {
+      "id": 46,
+      "currency": "TUSD",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000128720524791206,
+      "updatedAt": "2020-03-11T17:00:42.341Z"
+    },
+    {
+      "id": 45,
+      "currency": "TUSD",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 1.00192562415,
+      "updatedAt": "2020-03-11T17:00:41.964Z"
+    },
+    {
+      "id": 8,
+      "currency": "BCH",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.0335288233805101,
+      "updatedAt": "2020-03-11T17:00:32.010Z"
+    },
+    {
+      "id": 128,
+      "currency": "MHC",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 0.00220649536650015,
+      "updatedAt": "2020-03-11T17:01:00.678Z"
+    },
+    {
+      "id": 50,
+      "currency": "USDT",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 0.000128768746633406,
+      "updatedAt": "2020-03-11T17:00:19.636Z"
+    },
+    {
+      "id": 97,
+      "currency": "EUR",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 1.12672882454015,
+      "updatedAt": "2020-03-11T17:00:46.499Z"
+    },
+    {
+      "id": 103,
+      "currency": "GBP",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 1.28513230437074,
+      "updatedAt": "2020-03-11T17:00:47.215Z"
+    },
+    {
+      "id": 109,
+      "currency": "RUB",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.0138641067979875,
+      "updatedAt": "2020-03-11T17:00:48.463Z"
+    },
+    {
+      "id": 55,
+      "currency": "XTRD",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 0.00259644737843,
+      "updatedAt": "2020-03-10T18:03:44.978Z"
+    },
+    {
+      "id": 130,
+      "currency": "BTC",
+      "source": "coinmarketcap",
+      "rateCurrency": "BTC",
+      "rate": 1,
+      "updatedAt": "2020-02-04T16:30:13.431Z"
+    },
+    {
+      "id": 131,
+      "currency": "USD",
+      "source": "coinmarketcap",
+      "rateCurrency": "USD",
+      "rate": 1,
+      "updatedAt": "2020-02-04T16:30:35.682Z"
+    },
+    {
+      "id": 132,
+      "currency": "EUR",
+      "source": "coinmarketcap",
+      "rateCurrency": "EUR",
+      "rate": 1,
+      "updatedAt": "2020-02-04T16:30:37.513Z"
+    }
+  ]
+}
